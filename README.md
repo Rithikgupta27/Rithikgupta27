@@ -5,7 +5,7 @@
    
 <a href="https://www.linkedin.com/in/rithik-gupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rithik Gupta" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitte.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitte.com" target="_blank"><img align="center" src="https://twitter.com" alt="" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 &nbsp;
